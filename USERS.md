@@ -126,6 +126,7 @@ Currently, the following organizations are **officially** using Argo CD:
 1. [Hetki](https://hetki.ai)
 1. [hipages](https://hipages.com.au/)
 1. [Hiya](https://hiya.com)
+1. [HelloFresh](https://hellofresh.com)
 1. [Honestbank](https://honestbank.com)
 1. [Hostinger](https://www.hostinger.com)
 1. [IABAI](https://www.iab.ai)
